@@ -1,0 +1,52 @@
+[
+  {
+    "supplierNumber": 1,
+    "supplierName": "Supplier A",
+    "supplierRating": 4.5
+  },
+  {
+    "supplierNumber": 2,
+    "supplierName": "Supplier B",
+    "supplierRating": 4.0
+  },
+  {
+    "supplierNumber": 3,
+    "supplierName": "Supplier C",
+    "supplierRating": 3.8
+  },
+  {
+    "supplierNumber": 4,
+    "supplierName": "Supplier D",
+    "supplierRating": 4.2
+  },
+  {
+    "supplierNumber": 5,
+    "supplierName": "Supplier E",
+    "supplierRating": 3.5
+  },
+  {
+    "supplierNumber": 6,
+    "supplierName": "Supplier F",
+    "supplierRating": 4.1
+  },
+  {
+    "supplierNumber": 7,
+    "supplierName": "Supplier G",
+    "supplierRating": 4.7
+  },
+  {
+    "supplierNumber": 8,
+    "supplierName": "Supplier H",
+    "supplierRating": 3.9
+  },
+  {
+    "supplierNumber": 9,
+    "supplierName": "Supplier I",
+    "supplierRating": 4.4
+  },
+  {
+    "supplierNumber": 10,
+    "supplierName": "Supplier J",
+    "supplierRating": 3.6
+  }
+]

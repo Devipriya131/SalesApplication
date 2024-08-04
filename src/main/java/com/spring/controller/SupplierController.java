@@ -4,6 +4,7 @@ package com.spring.controller;
  * @author dsozhara
  **/
 
+import com.spring.model.Item;
 import com.spring.model.Supplier;
 import com.spring.repository.SupplierRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -19,8 +20,13 @@ public class SupplierController {
     private SupplierRepository supplierRepository;
 
     @PostMapping
-    public Supplier createSupplier(@RequestBody Supplier supplier) {
+    public Supplier createItem(@RequestBody Supplier supplier) {
         return supplierRepository.save(supplier);
+    }
+
+    @PostMapping("/bulk")
+    public List<Supplier> addSuppliers(@RequestBody List<Supplier> suppliers) {
+        return supplierRepository.saveAll(suppliers);
     }
 
     @GetMapping
