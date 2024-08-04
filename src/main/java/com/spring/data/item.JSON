@@ -1,0 +1,132 @@
+[
+  {
+    "itemNumber": 1,
+    "itemName": "Item A",
+    "itemRating": 4.5
+  },
+  {
+    "itemNumber": 2,
+    "itemName": "Item B",
+    "itemRating": 4.0
+  },
+  {
+    "itemNumber": 3,
+    "itemName": "Item C",
+    "itemRating": 3.8
+  },
+  {
+    "itemNumber": 4,
+    "itemName": "Item D",
+    "itemRating": 4.2
+  },
+  {
+    "itemNumber": 5,
+    "itemName": "Item E",
+    "itemRating": 3.5
+  },
+  {
+    "itemNumber": 6,
+    "itemName": "Item F",
+    "itemRating": 4.1
+  },
+  {
+    "itemNumber": 7,
+    "itemName": "Item G",
+    "itemRating": 4.7
+  },
+  {
+    "itemNumber": 8,
+    "itemName": "Item H",
+    "itemRating": 3.9
+  },
+  {
+    "itemNumber": 9,
+    "itemName": "Item I",
+    "itemRating": 4.4
+  },
+  {
+    "itemNumber": 10,
+    "itemName": "Item J",
+    "itemRating": 3.6
+  },
+  {
+    "itemNumber": 11,
+    "itemName": "Item K",
+    "itemRating": 4.3
+  },
+  {
+    "itemNumber": 12,
+    "itemName": "Item L",
+    "itemRating": 3.7
+  },
+  {
+    "itemNumber": 13,
+    "itemName": "Item M",
+    "itemRating": 4.8
+  },
+  {
+    "itemNumber": 14,
+    "itemName": "Item N",
+    "itemRating": 3.4
+  },
+  {
+    "itemNumber": 15,
+    "itemName": "Item O",
+    "itemRating": 4.6
+  },
+  {
+    "itemNumber": 16,
+    "itemName": "Item P",
+    "itemRating": 3.3
+  },
+  {
+    "itemNumber": 17,
+    "itemName": "Item Q",
+    "itemRating": 4.9
+  },
+  {
+    "itemNumber": 18,
+    "itemName": "Item R",
+    "itemRating": 3.2
+  },
+  {
+    "itemNumber": 19,
+    "itemName": "Item S",
+    "itemRating": 4.0
+  },
+  {
+    "itemNumber": 20,
+    "itemName": "Item T",
+    "itemRating": 3.1
+  },
+  {
+    "itemNumber": 21,
+    "itemName": "Item U",
+    "itemRating": 4.4
+  },
+  {
+    "itemNumber": 22,
+    "itemName": "Item V",
+    "itemRating": 3.8
+  },
+  {
+    "itemNumber": 23,
+    "itemName": "Item W",
+    "itemRating": 4.2
+  },
+  {
+    "itemNumber": 24,
+    "itemName": "Item X",
+    "itemRating": 3.5
+  },
+  {
+    "itemNumber": 25,
+    "itemName": "Item Y",
+    "itemRating": 4.1
+  },
+  {
+    "itemNumber": 26,
+    "itemName": "Item Z",
+    "itemRating": 4.7
+  }
+]
