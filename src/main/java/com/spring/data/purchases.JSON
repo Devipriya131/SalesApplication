@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "supplier": {
       "supplierNumber": 1
     },
@@ -12,351 +11,421 @@
     "date": "2014-01-01"
   },
   {
-    "id": 2,
     "supplier": {
       "supplierNumber": 2
     },
     "item": {
       "itemNumber": 2
     },
-    "quantity": 15,
-    "amount": 150.0,
-    "date": "2014-03-15"
+    "quantity": 5,
+    "amount": 50.0,
+    "date": "2015-02-01"
   },
   {
-    "id": 3,
     "supplier": {
       "supplierNumber": 1
     },
     "item": {
       "itemNumber": 3
     },
-    "quantity": 8,
-    "amount": 80.0,
-    "date": "2015-05-01"
+    "quantity": 20,
+    "amount": 200.0,
+    "date": "2016-03-01"
   },
   {
-    "id": 4,
     "supplier": {
       "supplierNumber": 3
     },
     "item": {
       "itemNumber": 4
     },
-    "quantity": 20,
-    "amount": 200.0,
-    "date": "2016-07-20"
+    "quantity": 15,
+    "amount": 150.0,
+    "date": "2017-04-01"
   },
   {
-    "id": 5,
     "supplier": {
       "supplierNumber": 4
     },
     "item": {
       "itemNumber": 5
     },
-    "quantity": 12,
-    "amount": 120.0,
-    "date": "2017-09-10"
+    "quantity": 8,
+    "amount": 80.0,
+    "date": "2018-05-01"
   },
   {
-    "id": 6,
     "supplier": {
       "supplierNumber": 2
     },
     "item": {
       "itemNumber": 6
     },
-    "quantity": 25,
-    "amount": 250.0,
-    "date": "2018-11-15"
+    "quantity": 12,
+    "amount": 120.0,
+    "date": "2019-06-01"
   },
   {
-    "id": 7,
     "supplier": {
       "supplierNumber": 3
     },
     "item": {
       "itemNumber": 7
     },
-    "quantity": 30,
-    "amount": 300.0,
-    "date": "2019-01-01"
+    "quantity": 18,
+    "amount": 180.0,
+    "date": "2020-07-01"
   },
   {
-    "id": 8,
     "supplier": {
       "supplierNumber": 1
     },
     "item": {
       "itemNumber": 8
     },
-    "quantity": 5,
-    "amount": 50.0,
-    "date": "2020-03-22"
+    "quantity": 22,
+    "amount": 220.0,
+    "date": "2021-08-01"
   },
   {
-    "id": 9,
     "supplier": {
       "supplierNumber": 4
     },
     "item": {
       "itemNumber": 9
     },
-    "quantity": 18,
-    "amount": 180.0,
-    "date": "2021-05-30"
+    "quantity": 9,
+    "amount": 90.0,
+    "date": "2022-09-01"
   },
   {
-    "id": 10,
     "supplier": {
       "supplierNumber": 2
     },
     "item": {
       "itemNumber": 10
     },
-    "quantity": 14,
-    "amount": 140.0,
-    "date": "2022-07-15"
+    "quantity": 11,
+    "amount": 110.0,
+    "date": "2023-10-01"
   },
   {
-    "id": 11,
     "supplier": {
-      "supplierNumber": 1
+      "supplierNumber": 3
     },
     "item": {
       "itemNumber": 11
     },
-    "quantity": 9,
-    "amount": 90.0,
-    "date": "2014-02-15"
+    "quantity": 14,
+    "amount": 140.0,
+    "date": "2014-11-01"
   },
   {
-    "id": 12,
     "supplier": {
-      "supplierNumber": 4
+      "supplierNumber": 1
     },
     "item": {
       "itemNumber": 12
     },
-    "quantity": 22,
-    "amount": 220.0,
-    "date": "2015-04-01"
+    "quantity": 6,
+    "amount": 60.0,
+    "date": "2015-12-01"
   },
   {
-    "id": 13,
     "supplier": {
-      "supplierNumber": 2
+      "supplierNumber": 4
     },
     "item": {
       "itemNumber": 13
     },
-    "quantity": 16,
-    "amount": 160.0,
-    "date": "2016-06-15"
+    "quantity": 13,
+    "amount": 130.0,
+    "date": "2016-01-01"
   },
   {
-    "id": 14,
-    "supplier": {
-      "supplierNumber": 3
-    },
-    "item": {
-      "itemNumber": 14
-    },
-    "quantity": 11,
-    "amount": 110.0,
-    "date": "2017-08-30"
-  },
-  {
-    "id": 15,
-    "supplier": {
-      "supplierNumber": 1
-    },
-    "item": {
-      "itemNumber": 15
-    },
-    "quantity": 7,
-    "amount": 70.0,
-    "date": "2018-10-05"
-  },
-  {
-    "id": 16,
-    "supplier": {
-      "supplierNumber": 4
-    },
-    "item": {
-      "itemNumber": 16
-    },
-    "quantity": 19,
-    "amount": 190.0,
-    "date": "2019-12-01"
-  },
-  {
-    "id": 17,
     "supplier": {
       "supplierNumber": 2
     },
     "item": {
-      "itemNumber": 17
+      "itemNumber": 14
     },
-    "quantity": 20,
-    "amount": 200.0,
-    "date": "2020-01-20"
+    "quantity": 17,
+    "amount": 170.0,
+    "date": "2017-02-01"
   },
   {
-    "id": 18,
     "supplier": {
       "supplierNumber": 3
     },
     "item": {
-      "itemNumber": 18
+      "itemNumber": 15
     },
-    "quantity": 15,
-    "amount": 150.0,
-    "date": "2021-03-15"
+    "quantity": 19,
+    "amount": 190.0,
+    "date": "2018-03-01"
   },
   {
-    "id": 19,
     "supplier": {
       "supplierNumber": 1
     },
     "item": {
-      "itemNumber": 19
+      "itemNumber": 16
     },
-    "quantity": 12,
-    "amount": 120.0,
-    "date": "2022-05-25"
+    "quantity": 7,
+    "amount": 70.0,
+    "date": "2019-04-01"
   },
   {
-    "id": 20,
     "supplier": {
       "supplierNumber": 4
     },
     "item": {
-      "itemNumber": 20
+      "itemNumber": 17
     },
-    "quantity": 28,
-    "amount": 280.0,
-    "date": "2023-07-01"
+    "quantity": 21,
+    "amount": 210.0,
+    "date": "2020-05-01"
   },
   {
-    "id": 21,
+    "supplier": {
+      "supplierNumber": 2
+    },
+    "item": {
+      "itemNumber": 18
+    },
+    "quantity": 16,
+    "amount": 160.0,
+    "date": "2021-06-01"
+  },
+  {
+    "supplier": {
+      "supplierNumber": 3
+    },
+    "item": {
+      "itemNumber": 19
+    },
+    "quantity": 23,
+    "amount": 230.0,
+    "date": "2022-07-01"
+  },
+  {
     "supplier": {
       "supplierNumber": 1
+    },
+    "item": {
+      "itemNumber": 20
+    },
+    "quantity": 14,
+    "amount": 140.0,
+    "date": "2023-08-01"
+  },
+  {
+    "supplier": {
+      "supplierNumber": 4
     },
     "item": {
       "itemNumber": 21
     },
     "quantity": 10,
     "amount": 100.0,
-    "date": "2014-03-01"
+    "date": "2014-09-01"
   },
   {
-    "id": 22,
     "supplier": {
       "supplierNumber": 2
     },
     "item": {
       "itemNumber": 22
     },
-    "quantity": 18,
-    "amount": 180.0,
-    "date": "2015-06-10"
+    "quantity": 25,
+    "amount": 250.0,
+    "date": "2015-10-01"
   },
   {
-    "id": 23,
     "supplier": {
       "supplierNumber": 3
     },
     "item": {
       "itemNumber": 23
     },
-    "quantity": 14,
-    "amount": 140.0,
-    "date": "2016-08-25"
+    "quantity": 9,
+    "amount": 90.0,
+    "date": "2016-11-01"
   },
   {
-    "id": 24,
-    "supplier": {
-      "supplierNumber": 4
-    },
-    "item": {
-      "itemNumber": 24
-    },
-    "quantity": 25,
-    "amount": 250.0,
-    "date": "2017-11-01"
-  },
-  {
-    "id": 25,
     "supplier": {
       "supplierNumber": 1
     },
     "item": {
-      "itemNumber": 25
+      "itemNumber": 24
     },
-    "quantity": 30,
-    "amount": 300.0,
-    "date": "2018-12-15"
+    "quantity": 11,
+    "amount": 110.0,
+    "date": "2017-12-01"
   },
   {
-    "id": 26,
+    "supplier": {
+      "supplierNumber": 4
+    },
+    "item": {
+      "itemNumber": 25
+    },
+    "quantity": 13,
+    "amount": 130.0,
+    "date": "2018-01-01"
+  },
+  {
     "supplier": {
       "supplierNumber": 2
     },
     "item": {
       "itemNumber": 26
     },
-    "quantity": 12,
-    "amount": 120.0,
+    "quantity": 17,
+    "amount": 170.0,
     "date": "2019-02-01"
   },
   {
-    "id": 27,
     "supplier": {
       "supplierNumber": 3
     },
     "item": {
       "itemNumber": 27
     },
-    "quantity": 16,
-    "amount": 160.0,
-    "date": "2020-04-10"
-  },
-  {
-    "id": 28,
-    "supplier": {
-      "supplierNumber": 4
-    },
-    "item": {
-      "itemNumber": 28
-    },
     "quantity": 22,
     "amount": 220.0,
-    "date": "2021-06-15"
+    "date": "2020-03-01"
   },
   {
-    "id": 29,
     "supplier": {
       "supplierNumber": 1
     },
     "item": {
-      "itemNumber": 29
+      "itemNumber": 28
     },
-    "quantity": 9,
-    "amount": 90.0,
-    "date": "2022-08-01"
+    "quantity": 6,
+    "amount": 60.0,
+    "date": "2021-04-01"
   },
   {
-    "id": 30,
+    "supplier": {
+      "supplierNumber": 4
+    },
+    "item": {
+      "itemNumber": 29
+    },
+    "quantity": 19,
+    "amount": 190.0,
+    "date": "2022-05-01"
+  },
+  {
     "supplier": {
       "supplierNumber": 2
     },
     "item": {
       "itemNumber": 30
     },
+    "quantity": 9,
+    "amount": 90.0,
+    "date": "2014-06-01"
+  },
+  {
+    "supplier": {
+      "supplierNumber": 3
+    },
+    "item": {
+      "itemNumber": 31
+    },
+    "quantity": 15,
+    "amount": 150.0,
+    "date": "2015-07-01"
+  },
+  {
+    "supplier": {
+      "supplierNumber": 1
+    },
+    "item": {
+      "itemNumber": 32
+    },
+    "quantity": 13,
+    "amount": 130.0,
+    "date": "2016-08-01"
+  },
+  {
+    "supplier": {
+      "supplierNumber": 4
+    },
+    "item": {
+      "itemNumber": 33
+    },
+    "quantity": 8,
+    "amount": 80.0,
+    "date": "2017-09-01"
+  },
+  {
+    "supplier": {
+      "supplierNumber": 2
+    },
+    "item": {
+      "itemNumber": 34
+    },
+    "quantity": 21,
+    "amount": 210.0,
+    "date": "2018-10-01"
+  },
+  {
+    "supplier": {
+      "supplierNumber": 3
+    },
+    "item": {
+      "itemNumber": 35
+    },
     "quantity": 14,
     "amount": 140.0,
-    "date": "2023-10-10"
+    "date": "2019-11-01"
+  },
+  {
+    "supplier": {
+      "supplierNumber": 1
+    },
+    "item": {
+      "itemNumber": 36
+    },
+    "quantity": 7,
+    "amount": 70.0,
+    "date": "2020-12-01"
+  },
+  {
+    "supplier": {
+      "supplierNumber": 4
+    },
+    "item": {
+      "itemNumber": 37
+    },
+    "quantity": 19,
+    "amount": 190.0,
+    "date": "2021-01-01"
+  },
+  {
+    "supplier": {
+      "supplierNumber": 2
+    },
+    "item": {
+      "itemNumber": 38
+    },
+    "quantity": 25,
+    "amount": 250.0,
+    "date": "2022-02-01"
+  },
+  {
+    "supplier": {
+      "supplierNumber": 3
+    },
+    "item": {
+      "itemNumber": 39
+    },
+    "quantity": 16,
+    "amount": 160.0,
+    "date": "2023-03-01"
   }
 ]
